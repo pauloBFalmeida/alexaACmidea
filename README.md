@@ -1,4 +1,4 @@
-# alexaArCondicionado
+# Ar Condicionado Midea controlado pela Alexa
 Controle do Ar condicionado pela alexa
 
-[MideaAC lib](https://github.com/Links2004/arduinoMideaAC.git)
+Baseado no [projeto arduino MideaAC](https://github.com/Links2004/arduinoMideaAC.git)
